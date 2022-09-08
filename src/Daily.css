@@ -1,0 +1,14 @@
+.weeksDays {
+  margin-top: 20px;
+  font-size: 12px;
+  background: #f1f1f1;
+  text-align: center;
+  border: 1px solid #f1f1f1;
+  border-radius: 20px;
+
+  transition: all 200ms ease-out;
+}
+
+p {
+  font-size: 12px;
+}
