@@ -20,6 +20,16 @@ export default function App() {
           <CurrentTemperature />
           <Forecast />
         </Card>
+        <span>
+          <a
+            href="https://github.com/macarenagimenez/react-app-weather"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Open-source code
+          </a>{" "}
+          by Macu Gimenez
+        </span>
       </Container>
     </div>
   );
